@@ -1,10 +1,10 @@
 # PetShop
 Landing Page - PetShop
 
-![3f0c0450-4149-4099-93bb-5af27bd68743](https://user-images.githubusercontent.com/63025529/173165739-1a4b1509-60f9-4655-bc91-0c1f8f030177.jpg)
-![5a10a263-656b-4ef8-a591-92dadf04565a](https://user-images.githubusercontent.com/63025529/173165740-7201dfbf-8593-4ce9-94b2-65dca969a9ef.jpg)
-![aa30d195-be1c-4fa4-97ea-905c24a027fb](https://user-images.githubusercontent.com/63025529/173165741-44ee1ae2-a2b6-4e52-aad9-2f37099138f6.jpg)
-![c0722adb-8200-4afe-90df-015af12d0104](https://user-images.githubusercontent.com/63025529/173165742-2b378bd4-dc4d-4846-8dd2-6e53937b17a7.jpg)
+![257bda1a-72a6-482d-a11b-cef62993f493](https://user-images.githubusercontent.com/63025529/173166576-ec9fa0f7-de56-44a7-8958-31b9f51f229a.jpg)
+![c1122f75-18de-4054-8cc0-3a617ca2bbcf](https://user-images.githubusercontent.com/63025529/173166581-42815e21-76af-4ba6-b921-d0363ca88771.jpg)
+![597ffcb1-d3f4-42d5-88fa-e2e419735930](https://user-images.githubusercontent.com/63025529/173166590-5b1ed01d-d3bb-4341-bd0a-8e35bebfbc9e.jpg)
+![78c22355-7874-4a7c-9779-94a9435fec54](https://user-images.githubusercontent.com/63025529/173166596-aeaeb491-b5c0-4106-8e41-05d810adf0af.jpg)
 
 Sobre o Projeto: 
 
